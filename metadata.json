@@ -1,0 +1,6 @@
+{
+  "name": "Am I Eligible? | Universal Eligibility & Opportunity Checker for India",
+  "description": "Check Indian exams, defence entries, government jobs, colleges, courses, and admission opportunities you may be eligible for based on age, marks, category, and education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
